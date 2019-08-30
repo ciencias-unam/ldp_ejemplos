@@ -17,4 +17,5 @@ $ git clone https://github.com/ciencias-unam/ldp_ejemplos
 ## Contenido
 
 1. [Introducción a Racket](https://github.com/ciencias-unam/ldp_ejemplos/tree/master/ejemplos01)   
-1. [Estructuras de Datos](https://github.com/ciencias-unam/ldp_ejemplos/tree/master/ejemplos02)
+2. [Estructuras de Datos](https://github.com/ciencias-unam/ldp_ejemplos/tree/master/ejemplos02)   
+3. [Definición de Tipos de Datos](https://github.com/ciencias-unam/ldp_ejemplos/tree/master/ejemplos03)
